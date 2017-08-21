@@ -1,0 +1,23 @@
+{
+  "name": "bulk-insert",
+  "version": "1.0.0",
+  "description": "Bulk insert into postgres db",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -timeout 999999"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hin-Fan/bulk-insert.git"
+  },
+  "keywords": [
+    "bulk",
+    "init"
+  ],
+  "author": "Hin-Fan Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hin-Fan/bulk-insert/issues"
+  },
+  "homepage": "https://github.com/Hin-Fan/bulk-insert#readme"
+}
